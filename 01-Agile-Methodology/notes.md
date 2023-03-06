@@ -20,15 +20,13 @@
 
 - Sprints
   - Measure of time vs what you have delivered?
-
   - MVP
 - Stories
 - Standup
 - Scrum Master
 - TDD
 - Extreme Programming
-- Scrum
-- Stories
+- Scrum vs Kanban
 
 ### Different Scrum meetings?
 
