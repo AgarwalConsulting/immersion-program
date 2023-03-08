@@ -45,3 +45,4 @@
 - HCL - HashiCorp Language (Terraform Scripts)
 - JVM - Java Virtual Machine
 - JRE - Java Runtime Environment
+- JDK - Java Development Kit

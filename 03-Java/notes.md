@@ -5,9 +5,10 @@
 - JavaScript is **NOT** the same as a Java
 
 - Imperative
-- Object-oriented
-- *Statically* vs Dynamically typed
 - *Compiled* vs interpreted language
+- *Statically* vs Dynamically typed
+- Object-oriented
+- Turing-complete
 
 - Java is a *JVM* based language
 
@@ -16,3 +17,9 @@
   - Scala
   - Kotlin
   - ...
+
+---
+
+## Java on the Web
+
+- JSP - Java Servlet Pages

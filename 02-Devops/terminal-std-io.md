@@ -1,0 +1,5 @@
+# Terminal
+
+- Stdin
+- Stdout
+- Stderr
