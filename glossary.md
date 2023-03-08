@@ -43,3 +43,5 @@
 - SPA - Single Page Applications (React or AngularJS)
 - DSL - Domain Specific Language
 - HCL - HashiCorp Language (Terraform Scripts)
+- JVM - Java Virtual Machine
+- JRE - Java Runtime Environment
