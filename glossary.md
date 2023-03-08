@@ -28,3 +28,18 @@
 - MS DOS - Disk Operating System
 - DOS - Denial of Service
 - DDOS - Distributed Denial of Service; Prevention Tools: CloudFlare
+- IDE - Integrated Development Environment (Code Editors - IntelliJ / VSCode)
+- CVE - Common Vulnerabilities and Exposures
+- Fuzzing / fuzz testing - Auto generate possible different inputs to a application
+- OWASP - Open Worldwide Application Security Project
+- Web crawlers - Use case: Search Engines
+- Stateful vs Stateless - Data/State an application persists for a given session
+- IP Address - Uniquely identify a machine within a network
+- PORT - Uniquely identify a process within a machine
+- localhost - IP Address: 127.0.0.1
+- Microservice - a collection of smaller services/processes
+- SQL - Structured Query Language - Relational Algebra - Manage Data / Schema within a Database
+- ReST - Representational State Transfer (HTTP based Web applications)
+- SPA - Single Page Applications (React or AngularJS)
+- DSL - Domain Specific Language
+- HCL - HashiCorp Language (Terraform Scripts)
