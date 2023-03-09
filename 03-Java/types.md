@@ -6,8 +6,8 @@
   - byte (`%d`)
   - int (`%d`)
   - char (`%c`)
-  - float (`%f`, `%g`)
-  - double (`%f`, `%g`)
+  - float (`%f`, `%.2f`, `%g`)
+  - double (`%f`, `%.2f`, `%g`)
 
 - Derived/Complex Types
   - String (`%s`)
