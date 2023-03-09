@@ -23,3 +23,29 @@
 ## Java on the Web
 
 - JSP - Java Servlet Pages
+
+---
+
+## Topics
+
+- Overview
+- `java` vs `javac`
+- Data types
+  - Primitive Type
+  - Derived/Composite/Class Types
+- Operators
+- Functions
+- Control Flow
+  - if...else
+  - switch
+  - while
+  - do..while
+  - for
+  - for each (for ( : ))
+- Naming Conventions
+- Data Structures
+  - Array
+  - ArrayList
+  - HashMap
+  - Class
+- Splitting & Packaging
