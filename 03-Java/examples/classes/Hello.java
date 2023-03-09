@@ -15,6 +15,10 @@ class Person { // Blueprint of a real world entity
     this.age = age;
   }
 
+  Person(String firstName, String lastName) {
+    this.name = firstName + " " + lastName;
+  }
+
   // Methods: Setters
   public void setName(String name) {
     this.name = name;
@@ -55,7 +59,8 @@ public class Hello {
 
   public static void main(String[] args) {
     // Person p = new Person(); // "object"
-    Person p = new Person("Gaurav", 31); // "object"
+    // Person p = new Person("Gaurav", 31); // "object"
+    Person p = new Person("Gaurav", "Agarwal"); // "object"
 
     // p.name = "Gaurav";
     // p.setName("Gaurav");
