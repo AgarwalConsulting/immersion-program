@@ -46,6 +46,6 @@
 - Data Structures
   - Array
   - ArrayList
+  - Class / Objects
   - HashMap
-  - Class
 - Splitting & Packaging

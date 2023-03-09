@@ -55,3 +55,7 @@ Print numbers 1 to 100:
 
 - Create a function `fizz_buzz` which takes a `int` and returns a `String`
 - Ensure that you define the logic in a separate package.
+
+## 9. Data Structures
+
+Using HashMap and ArrayList, create a text interface to allow a user to add employee names to a department in a company. For example, "Add Savita to Engineering" or "Add Agam to Sales." Then let the user retrieve a list of all people in a department or all people in the company by department, sorted alphabetically.
