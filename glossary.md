@@ -55,3 +55,4 @@
 - CAPEX - Capital Expenditures
 - OPEX - Operational Expenditures
 - COLO - Co-located (Renting rackspaces)
+- Latency - Round-trip time, processing time - anything which causes delay
