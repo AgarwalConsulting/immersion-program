@@ -7,6 +7,7 @@
 - SaaS - Software as a Service
 - PaaS - Platform as a Service (Eg: Heroku, Netlify, Firebase, ...)
 - IaaS - Infrastructure as a Service (Eg: AWS/GCP/Azure/Digital Cloud/...)
+- FaaS - Function as a Service
 - TDD - Test Driven Development
 - Unit/Automated Testing - Way for s/w to validate it's behavior as expected
 - Stakeholders - Commissioning the product, end users, domain experts
@@ -56,3 +57,10 @@
 - OPEX - Operational Expenditures
 - COLO - Co-located (Renting rackspaces)
 - Latency - Round-trip time, processing time - anything which causes delay
+- Strangler Pattern - Piece by piece modernised until the entire application has been moved
+- IoT - Internet of Things - Sensors, Smart Devices
+- Emulation - Pretending to be some other hardware via software
+- AMI - Amazon Machine Image
+- SSH - Secure Shell - PuttySSH
+- OSS - Open Source Software
+- UI - User Interface

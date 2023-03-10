@@ -13,6 +13,7 @@
 - Serverless vs Normal Cloud
 - on-premise computing
   - Private cloud
+- Multi-cloud
 
 ## Tools
 
