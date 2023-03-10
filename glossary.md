@@ -5,8 +5,8 @@
 - API - Application Programming Interface (HTTP API, gRPC, function call, ...)
 - UML - Unified Modeling Language
 - SaaS - Software as a Service
-- PaaS - Platform as a Service
-- IaaS - Infrastructure as a Service
+- PaaS - Platform as a Service (Eg: Heroku, Netlify, Firebase, ...)
+- IaaS - Infrastructure as a Service (Eg: AWS/GCP/Azure/Digital Cloud/...)
 - TDD - Test Driven Development
 - Unit/Automated Testing - Way for s/w to validate it's behavior as expected
 - Stakeholders - Commissioning the product, end users, domain experts
@@ -46,3 +46,12 @@
 - JVM - Java Virtual Machine
 - JRE - Java Runtime Environment
 - JDK - Java Development Kit
+- CSP - Cloud Service Providers
+- CDN - Content Delivery Networks
+- ISP - Internet Service Provides
+- VM - Virtual Machines (Virtualization / Hypervisor)
+- DB - DataBases
+- Legacy - at least 20 year old or systems which can't be easily virtualized/or moved to the cloud
+- CAPEX - Capital Expenditures
+- OPEX - Operational Expenditures
+- COLO - Co-located (Renting rackspaces)
