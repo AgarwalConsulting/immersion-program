@@ -64,3 +64,7 @@
 - SSH - Secure Shell - PuttySSH
 - OSS - Open Source Software
 - UI - User Interface
+- VPC - Virtual Private Cloud
+- POM - Project Object Model (Maven for Java)
+- JAR - `J`ava `AR`chive
+- Cluster - Collection of networked machines
