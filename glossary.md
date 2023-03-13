@@ -69,3 +69,4 @@
 - JAR - `J`ava `AR`chive
 - Cluster - Collection of networked machines
 - gRPC - Google's Remote Procedure call
+- SME - Subject Matter Expert
