@@ -14,7 +14,7 @@
 - Follow-up (Confirmation/Notification system)
 - Shipping system (Logistics)
   - Shipping costs
-- User Login
+- User Login (cookie -> jwt)
   - Order Management
 - Advertising / Recommendations
 - Ratings / Comments

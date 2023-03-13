@@ -1,0 +1,3 @@
+[submodule "04-cloud-native-development/rvstore"]
+	path = 04-cloud-native-development/rvstore
+	url = https://github.com/AgarwalConsulting/rvstore
