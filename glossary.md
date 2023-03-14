@@ -70,3 +70,4 @@
 - Cluster - Collection of networked machines
 - gRPC - Google's Remote Procedure call
 - SME - Subject Matter Expert
+- BI - Business Intelligence
