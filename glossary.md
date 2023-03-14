@@ -71,3 +71,4 @@
 - gRPC - Google's Remote Procedure call
 - SME - Subject Matter Expert
 - BI - Business Intelligence
+- IAM - Identity & Access Management
