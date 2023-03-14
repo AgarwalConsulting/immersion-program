@@ -4,7 +4,7 @@
 
 - Delivery of Data (Stream Processing)
 
-  AWS: MSK, SNS (Simple Notification Service), EC2, ...
+  AWS: MSK, SNS (Simple Notification Service), SQS (Simple Queuing Service), EC2, ...
 
 ## Processing
 
@@ -14,8 +14,12 @@
 
 - Stream Processing
 
-  - AWS: Kinesis
+  - AWS: Kinesis, Athena
 
 ## Storage
 
   AWS: RDS, S3, Aurora, Athena, RedShift, EBS, ...
+
+---
+
+ETL Tools: Kinesis (Streaming), Glue (Batched)

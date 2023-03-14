@@ -35,8 +35,8 @@ log_file = Date.new(2009,11,26).to_time.to_i
 while true
   sale_line = generate_sale
 
-  File.write("/var/logs/sales/#{log_file}.log", sale_line+"\n", mode: 'a')
-  # puts sale_line
+  # File.write("/var/logs/sales/#{log_file}.log", sale_line+"\n", mode: 'a')
+  puts sale_line
 
   sleep 1
 end

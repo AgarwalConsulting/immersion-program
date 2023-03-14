@@ -14,7 +14,7 @@
 
 - Column Family DBs / Wide Column DBs
 
-  - Eg: Apache Cassandra, GCP BigTable, AWS Athena, ...
+  - Eg: Apache Cassandra, GCP BigTable, AWS Keyspaces, Apache Cassandra...
 
 - Document Stores
 
