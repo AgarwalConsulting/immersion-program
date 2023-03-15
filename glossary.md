@@ -72,3 +72,4 @@
 - SME - Subject Matter Expert
 - BI - Business Intelligence
 - IAM - Identity & Access Management
+- EC2 - Elastic Compute Cloud
