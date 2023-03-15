@@ -76,3 +76,6 @@
 - GUI - Graphical User Interface
 - CLI - Command Line Interface
 - FLOPS - Floating Point Operations / Second
+- REPL - Read, evaluate, print, loop
+- NLP - Natural Language Processing
+- ASR - Automatic Speech Recognition

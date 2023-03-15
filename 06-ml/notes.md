@@ -20,7 +20,7 @@
 
 ---
 
-## Machine Learning = Statistics
+## Machine Learning = Statistics + Probability
 
 - Standard Deviation
 - Mean, Median, Mode
