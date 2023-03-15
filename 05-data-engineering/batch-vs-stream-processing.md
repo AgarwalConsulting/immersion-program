@@ -18,7 +18,7 @@
 
 ## Storage
 
-  AWS: RDS, S3, Aurora, Athena, RedShift, EBS, ...
+  AWS: RDS (Relational DataBase Service), S3 (Simple Storage Service), Aurora, Athena, RedShift, EBS (Elastic Block Storage), ...
 
 ---
 

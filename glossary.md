@@ -73,3 +73,6 @@
 - BI - Business Intelligence
 - IAM - Identity & Access Management
 - EC2 - Elastic Compute Cloud
+- GUI - Graphical User Interface
+- CLI - Command Line Interface
+- FLOPS - Floating Point Operations / Second
