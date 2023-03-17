@@ -12,7 +12,23 @@ echo "<message>" # Prints the message within quotes
 echo $? # Prints the exit code of previous command
 touch `filename` # Creates an empty file
 mkdir `directory-name` # Creates a new directory
+rmdir `directory-name` # Removes a directory
+rm -rf `directory-name` # Removes a non-empty directory
 pwd # Which directory you are currently in
+```
+
+## Docker commands
+
+```bash
+docker run `image-name` [`command`] # To start a container; -it = interactive + teletype; --rm = Remove when stopped
+docker ps # To display running containers; -a = shows all including stopped containers
+docker rm # To remove a stopped container
+
+docker images # To display all the images in local cache
+docker rmi # To remove a image
+
+docker commit `container-id` `image-name` # To create a image from a docker container
+docker build -t `image-name` . # To build a docker image from the `Dockerfile` in the current director
 ```
 
 ## Others
