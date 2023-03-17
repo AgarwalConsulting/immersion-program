@@ -25,8 +25,10 @@ Eg: `echo "hello" > hello.txt`
 
 2. Exit Code
 
-> If your exit code is non-zero -> process had failed
-> If your exit code is zero -> process was successful
+```
+If your exit code is non-zero -> process had failed
+If your exit code is zero -> process was successful
+```
 
 ---
 
