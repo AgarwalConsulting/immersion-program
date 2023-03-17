@@ -4,8 +4,8 @@ from psycopg2 import sql
 connection = psycopg2.connect(
     host="localhost",
     database="psycopgtest",
-    user="postgres",
-    password="Password123",
+    user="gaurav",
+    password="",
 )
 
 connection.set_session(autocommit=True)
@@ -23,10 +23,8 @@ def is_admin(username: str) -> bool:
             FROM
                 users
             WHERE
-                username = %(username)s
-        """, {
-            'username': username
-        })
+                username = '{}'
+        """.format(username))
         result = cursor.fetchone()
 
     if result is None:
@@ -64,8 +62,8 @@ print(is_admin('foo'))
 print(is_admin("'; select true; --"))
 print(is_admin('haki'))
 print(is_admin("'; update users set admin = 'true' where username = 'haki'; select true; --"))
-print(is_admin('haki'))
+# print(is_admin('haki'))
 
-print(count_rows('users', 1))
-print(count_rows('users', 10))
-print(count_rows("(select 1) as foo; update users set admin = true where name = 'haki'; --", 1))
+# print(count_rows('users', 1))
+# print(count_rows('users', 10))
+# print(count_rows("(select 1) as foo; update users set admin = true where name = 'haki'; --", 1))

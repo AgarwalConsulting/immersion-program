@@ -79,3 +79,15 @@
 - REPL - Read, evaluate, print, loop
 - NLP - Natural Language Processing
 - ASR - Automatic Speech Recognition
+- TCP - Transmission Control Protocol
+- UDP - User Datagram Protocol
+- authn - Authentication
+- authz - Authorization
+- Egress - Any traffic leaving a system
+- Ingress - Any incoming traffic
+- Regex - Regular Expressions
+- MIME - Multipurpose Internet Mail Extensions
+- SDN - Software Defined Networking
+- PEP - Policy Enforcement Point
+- PDP - Policy Decision Point
+- SIEM - Security information and event management

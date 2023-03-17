@@ -1,3 +1,4 @@
+import time
 import uvicorn
 from fastapi import FastAPI
 from accounts.models.account import Account
@@ -18,6 +19,7 @@ async def open_account(account: Account):
 
 @app.get('/api/accounts', response_model=List[Account])
 async def retrieve_accounts():
+    # time.sleep(1)
     return account_repository.get_all()
 
 
